@@ -38,7 +38,7 @@ At_Digital_Chatbot/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/At_Digital_Chatbot.git
+   git clone https://github.com/Sajeewa30/AT-Digital-Chatbot-Sajeewa
    cd At_Digital_Chatbot
 
 2. Create and activate a virtual environment:
